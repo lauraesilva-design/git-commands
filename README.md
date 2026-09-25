@@ -8,3 +8,4 @@
 -Salvar o pacote usando "git commit -m 'mensagem'"
 
 git remote add origin https://github.com/lauraesilva-design/git-commands.git
+git push -u origin main
