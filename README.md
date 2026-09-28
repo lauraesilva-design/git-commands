@@ -14,3 +14,6 @@
 
 # Receber pacotes do github
 -git pull
+
+# Configuração
+-Configurar nome de úsuario usando "git config --global user.email " "email"
