@@ -17,4 +17,4 @@
 
 # Configuração
 -Configurar nome de úsuario usando "git config --global user.name "Nome""
--Configurar email de úsuario usando "git config --global user.email "Email""
+-Configurar email de úsuario usando "git config --global user.email "Email""  
